@@ -1,4 +1,4 @@
-# Color Detection Auto Clicker
+# Human Benchmark
 
 A lightweight desktop utility that detects a target color on the screen and automatically clicks the center of the detected color area.
 
